@@ -1,4 +1,4 @@
-# Run-Buddy Inc.
+# Run-Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,3 +13,5 @@ https://kos-mosv4.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Jesus Molina
+
+## ©️2019 Run Buddy, Inc
