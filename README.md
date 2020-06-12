@@ -3,6 +3,7 @@
 ## Purpose
 A website that offers fitness training services.
 
+![Screenshot of Webpage](/assets/images/screenshot.jpg?raw=true 'Screenshot of Webpage')
 
 ## Built With
 * HTML
